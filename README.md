@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya Raina</h1>
+<h1 align="center">Hi , I'm Aditya Raina</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraina100&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraina100" /> </p>
 
-- 🔭 I’m currently working on [Self-Driving Car using CNN](https://github.com/adityaraina100/Self-Driving-Car-using-CNN)
+- 🔭 I’m currently working on [SkillX-De-centralized skill Verification Platform](https://github.com/adityaraina100/SkillX-De-centralized-skill-verification-system)
 
 - 🌱 I’m currently learning **Python,Solidity,SQL,Cloud**
 
