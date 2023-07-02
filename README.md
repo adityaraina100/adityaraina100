@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web Development-projects](https://github.com/adityaraina100/Web-development-projects)
 
-- 🌱 I’m currently learning **Python,Solidity,SQL,Cloud**
+- 🌱 I’m currently learning **Python,BootStrap,SQL,Cloud**
 
 - 👯 I’m looking to collaborate on [Self-Driving Car using CNN](https://github.com/adityaraina100/Self-Driving-Car-using-CNN)
 
