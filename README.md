@@ -1,7 +1,4 @@
 <h2 align="left">Hi👋I am Aditya Raina! </h2>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/adityaraina100/adityaraina100/output/snake.svg" alt="Snake animation" />
