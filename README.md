@@ -1,6 +1,9 @@
-<h2 align="left">Hi👋I am Aditya Raina! </h2>
+<h2 align="left">Hi 👋! I am Aditya Raina</h2>
+
+###
 
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/adityaraina100/adityaraina100/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -54,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaraina100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraina100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraina100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
