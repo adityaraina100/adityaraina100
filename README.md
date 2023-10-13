@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/adityaraina100/Python-Projects)
 
-- 🌱 I’m currently learning **Python, Node.js and SQL**
+- 🌱 I’m currently learning **Python, Django and SQL**
 
 - 👯 I’m looking to collaborate on [Back-end Projects](https://github.com/adityaraina100/Back-end-Projects)
 
