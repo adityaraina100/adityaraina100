@@ -1,4 +1,4 @@
-<p><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1> I'm Aditya Raina</h1>
 <h3>Final Year Computer Science Student</h3>
