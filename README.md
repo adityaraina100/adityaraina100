@@ -1,7 +1,7 @@
 <p><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h1 align="center"> I'm Aditya Raina</h1>
-<h3 align="center">Final Year Computer Science Student</h3>
+<h1> I'm Aditya Raina</h1>
+<h3>Final Year Computer Science Student</h3>
 
 - 🔭 I’m currently working on [Back-end Frameworks](https://github.com/adityaraina100/Python-Back-end-Frameworks)
 
