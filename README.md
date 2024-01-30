@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Back-end Frameworks](https://github.com/adityaraina100/Python-Back-end-Frameworks)
 
-- 🌱 I’m currently learning **Python, Node.js and SQL**
+- 🌱 I’m currently learning **Django**
 
 - 📫 Drop a mail **adityaraina788@gmail.com**
 
