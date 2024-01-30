@@ -1,1 +1,1 @@
-<span style="font-family: 'Roboto Mono', monospace;">This text is in Arial font.</span>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
